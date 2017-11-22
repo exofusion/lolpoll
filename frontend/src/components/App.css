@@ -1,0 +1,19 @@
+.Header {
+    margin-bottom: 20px;
+}
+
+.VotingModule {
+    padding: 50px;
+
+    text-align: center;
+    border-style: solid;
+    border-color: #aaa;
+    border-width: 1px;
+    border-radius: 4px;
+}
+
+.IconConfirmation img {
+    margin: 30px;
+    height: 100px;
+    width: 100px;
+}
